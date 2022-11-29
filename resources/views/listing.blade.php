@@ -5,5 +5,5 @@
     <p>Fatal error</p>
 @else
      <h2>{{$listing['title']}}</h2>
-     <p>{{$listing['desc']}}</p>
+     <p>{{$listing['description']}}</p>
 @endif
